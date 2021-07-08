@@ -1,5 +1,5 @@
 {
-  "title": "悟空非空也 - 个人博客：龙珠宝藏入口",
+  "title": "悟空非空也 - 龙珠宝藏入口",
   "author": "悟空非空也",
   "description": "悟空非空也个人博客 http://wukongnotnull.com",
   "language": "zh-hans",
@@ -75,7 +75,7 @@
       "whatsapp": false,
       "all": [
         "facebook", "google", "twitter",
-        "weibo", "instapaper", "linkedin",
+         "instapaper", "linkedin",
         "pocket", "stumbleupon"
       ]
     },
@@ -106,7 +106,7 @@
     "copyright": {
       "site": "http://wukongnotnull.com",
       "author": "悟空非空也",
-      "website": "搜索：悟空非空也[B站|知乎|公众号|头条]",
+      "website": "悟空非空也{B站|知乎|公众号|头条}",
       "image": "asset/weixin/weixin-QR-code.png",
       "copyProtect": false
     },
